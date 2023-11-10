@@ -1,0 +1,26 @@
+{
+  "name": "Alvin Morales",
+  "age": 36,
+  "address": {
+    "street": "Mosgu Street",
+    "city": "Rohnome",
+    "state": "LA",
+    "zip": "15488"
+  },
+  "contact": {
+    "phone": "(418) 886-7615",
+    "servicePhone": "800191423"
+  },
+  "birthday": "1993-06-20T04:15:56.913Z",
+  "ip": "34.197.59.220",
+  "foo": "bar",
+  "profile": {
+    "about": "Demu awo kote cufi nagkabis lol reni dab zeha iwbo hofzuba iv epwocbov gemo acemub vu. Ne ulto gezforeh dibadezi bi up feem zijnikwi li be sefi kusluwu jahu. Geh en gagciti zojmugo zas ikel dunzakeb roebo heh ja dukzal uwuhaif jod to vepaddir kohi jeduc ilohawo. Hoeze cidub ehelopav nubodwod otodo susunze ajaronu ajuvi noonpur ek fujococ faov. Meldihu tal aznef venizfan albudoh sucni cu lutgut awetej zamsiwo apa ihu alum razzo. Bajniwcof ra riginzip armasaki dervemo lisovic wo kozhal ji rim rod po farmi le ihfakhov win setvilo mazo.",
+    "bio": "Utuban fanuwen goah hib leducvev ib woigubu zeheraow bivwi hilpa zompag botuv koun ge. Safsitul di ha soavuni wu duboblo ewaga vepig fegub ge guwzus jo. Hel dodu hedettu hevog cemzif wu fereawa dalcetuz ekotiba su hahhom pemiwco je. Apu sucus jumjaffer vic fa seg sag te gissiwko pow uge bi lemziha sutag. Ge baf ti muworod cu ehu tuve ega pokug ve adafoci ewemome bamo. Biclafo oznajko odekviv wuforbuj nu saurojin hu mupadu te mimidemi ibu fuknumi ek do ez eco fevnu. Ruhiw fulev dohwuphab fehuv horozu zajvut la tevreke baal cawabga to aguijgi ofejkak kavef panwosa jode ihefenib."
+  },
+  "apiKey": "fceabd7bb0a6f21cb9f47c8dd3ebf98d4f8b612a3a7310e8a3dc00c5782a493d",
+  "currency": {
+    "code": "BIF",
+    "name": "Burundi Franc"
+  }
+}
