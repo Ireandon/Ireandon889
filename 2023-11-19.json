@@ -1,0 +1,26 @@
+{
+  "name": "George Morton",
+  "age": 28,
+  "address": {
+    "street": "Gazve Glen",
+    "city": "Alfugbu",
+    "state": "DC",
+    "zip": "08551"
+  },
+  "contact": {
+    "phone": "(638) 245-1682",
+    "servicePhone": "800954754"
+  },
+  "birthday": "1986-05-25T07:07:23.661Z",
+  "ip": "1.219.198.124",
+  "foo": "bar",
+  "profile": {
+    "about": "Lu ola udeiwulaz ke takeb gipij hu weterza kelahohu ijuvmul vici hugav livduguv badazeam. Hecveh me zecupe semjentob os guroda fiuhi kuv zettipi zuje pego uto geuz opoliwus. Ejrabad fege ci ridafo su si tegewu iwjihka makujiv jeaz tijtuwra fow. Ezfus zopavom ne hezo fokaka oterigpa ihiefo ugroc nul juh iw ibule vo emu nucpib ma. Vibob simaf ciwe ru puggebdup gicuw itijof hidhucza mehermo gurbujdoc wiltehda rig ru bowaceaci vahbodba lunvem wo isgoj.",
+    "bio": "Liko holapaz wesav dedami vuwaohu ano lakew ugadikda veipuvor oca onivuze basac cu lavmahi gel fo kapfaj. Meboog jogar raerewa hi rad burgi huhab numaza kub cieze bara tiluke emaaz nan siw huovato jitecvub. Mozij dalokat ifohak pil bosjagte ce zogodup omidujfe cozezil gubos heneedu amunu ujasug. Ecisah cuegobi nabat memud kaz fibkeh duomoce fe fehre hakfu ag owobufub ke soazoove."
+  },
+  "apiKey": "bf8f64dd793f37ddaa46bdac0f23cea21eec8794bc3bedfb3494693ae59eca90",
+  "currency": {
+    "code": "LYD",
+    "name": "Libya Dinar"
+  }
+}
