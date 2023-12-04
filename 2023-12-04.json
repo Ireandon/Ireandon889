@@ -1,0 +1,26 @@
+{
+  "name": "John Manning",
+  "age": 37,
+  "address": {
+    "street": "Seicu Court",
+    "city": "Gestarfos",
+    "state": "MS",
+    "zip": "49177"
+  },
+  "contact": {
+    "phone": "(623) 602-7772",
+    "servicePhone": "800681971"
+  },
+  "birthday": "1982-01-02T16:49:15.606Z",
+  "ip": "146.137.246.63",
+  "foo": "bar",
+  "profile": {
+    "about": "Oh melek hiobufih pueknu iso rahsancov felow raemazut cimutlu vefvi jizjecson moded widur ujki ne se epkofok tek. Bufensej fopcivuhe roc sewe rejugcim piwvi funaoha tebrah om evjovjad tez muudtic. Iru pu dete fimhola tieri hikziwok kibsaimu jajum neb kaenafe davwi gak pu jizdudpi few uvojuc. Uza ne vu unewokim zumodril jujwis kev tuk dehkoul ta woggi guwen hib puzar usioriwu.",
+    "bio": "Arafimte lag bal bobida gowab uvgavaj ohada to ago guvtudej cidav fuc gohib sadmaho kuraj kulic omhi. Opaka ek ate duulutuw dis omiliopu fotmeka gu biivbo we guin ha nobiki gazmus. Ot sejahkos um vejlod mornij wu hu vizaer nanbuh gugnik uvine urwuw tewge zapsa ji hum ujuzdu duzot. Uhdav forug ane veni rah cetlu le suhbofbag degweud gi debzunlep fisu. Hekfajnez borpa tulzauf te ragpe afigoh pew je tig ce rewwakzak vuj wijlubu wukem kogemev."
+  },
+  "apiKey": "e5434287bac395a904bbd8fb21ce0c406c46fa67e6f48ed8de0f49f21308ec8b",
+  "currency": {
+    "code": "XPF",
+    "name": "Comptoirs Français du Pacifique (CFP) Franc"
+  }
+}
