@@ -1,0 +1,26 @@
+{
+  "name": "Tony Atkins",
+  "age": 18,
+  "address": {
+    "street": "Befar Boulevard",
+    "city": "Kevkolmur",
+    "state": "PA",
+    "zip": "03640"
+  },
+  "contact": {
+    "phone": "(482) 746-5416",
+    "servicePhone": "800331251"
+  },
+  "birthday": "2003-10-28T15:30:31.885Z",
+  "ip": "3.39.227.79",
+  "foo": "bar",
+  "profile": {
+    "about": "Oh vohfus tigiec kuil vekko or dogri nehce oguavfip uf bicuna wuk ikos noineiv ci ano lizir. Sodkozeg ejaimo urujez du gupe wuvoz besi aj hihitanuz wih tuufomat pagumha sawef ne nofazbe tuggas daupuri ton. Ezor peelisu vothahefu epluvbe ruvdebop sov baedep fuhbe usetfot nu piiw tetzo nopkulaga izzu fuvhades ugrehkeg pu veca.",
+    "bio": "Ne zola losjal pib man za ritaac mo japwiv unu vomo dabaz ico sapij si vojev hule. Ipi tawila tilu ja movroow evetop habsu zusibpo pozzuf ujofab tu deti mecegmiz. Ajezasje goru muetu nijdude ulcije goze iwier luoc kepno po pavafre epe uf. Hiowaic fukrut up datdapaw kulbuwu bav wi ne zuk pahini fogucpoz seja."
+  },
+  "apiKey": "57332b4105993748a0c2d6aab80a0ad1a4e5fedca77d9c669ee30bd846741970",
+  "currency": {
+    "code": "JMD",
+    "name": "Jamaica Dollar"
+  }
+}
