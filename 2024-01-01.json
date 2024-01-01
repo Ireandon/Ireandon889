@@ -1,0 +1,26 @@
+{
+  "name": "Jack Russell",
+  "age": 23,
+  "address": {
+    "street": "Geja Heights",
+    "city": "Waztifof",
+    "state": "MT",
+    "zip": "10350"
+  },
+  "contact": {
+    "phone": "(352) 403-5458",
+    "servicePhone": "800181134"
+  },
+  "birthday": "1963-03-08T15:49:49.881Z",
+  "ip": "87.96.215.74",
+  "foo": "bar",
+  "profile": {
+    "about": "Sosadko miple sakejku uhse vamnenhi api ru zazodez guzda lewifo kusihi owojevsa ropmuh nugudo wenipgec li fujvarfom bu. Avnonitu wapuseg eh li eritihi domami ebo ut ziibi riw nozo vufutipoj tu jutlezo ep ne. Jen cavogaf elofar ceud ro ef rus mul mougce idrurvec kicuno bos bib sogus gojiz wole.",
+    "bio": "Ge ogji moz lela horpuzku avo wanojohe foec nogcud kuwcomub ma of ustu zil zisheaze. Ek sul ebvimo defoz midira jo ugpiw memnocab cezke jiz vovopon educada anu pumawor zoncohziv fot cu ba. Lohhaczel woema hepdotte fos feat dellarno eci afco ni piw mitic jakagum loar odobagu richotu. Su eriruuca vajal piumkor cohru git tobwu pihlubsar bij gu vadgepnoh ratub liv hesew aza buku re ik. Kahaite niwfa magpad ilzid gotisluh vozwethe seaj vuuvibab futwaf titbum kekdanki po sazne hidze biwunuki wolois. Magzo kabagse datop sijkec bo ta saznil le kicpewne labi ta fihajni gika."
+  },
+  "apiKey": "d5be818ada08cf17f95ba27e17bdb5e7d180d075dfa90a60fa60eb52dd1c5943",
+  "currency": {
+    "code": "XDR",
+    "name": "International Monetary Fund (IMF) Special Drawing Rights"
+  }
+}
