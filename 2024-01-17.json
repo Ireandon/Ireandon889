@@ -1,0 +1,26 @@
+{
+  "name": "Rodney Mullins",
+  "age": 50,
+  "address": {
+    "street": "Ilorak Point",
+    "city": "Gofkeova",
+    "state": "NJ",
+    "zip": "97539"
+  },
+  "contact": {
+    "phone": "(952) 577-1156",
+    "servicePhone": "800536773"
+  },
+  "birthday": "1974-03-23T19:16:12.848Z",
+  "ip": "232.228.11.244",
+  "foo": "bar",
+  "profile": {
+    "about": "Ri nivti lufnef tef kahe gi ham ditecvum dehnurri posvorkuc wuguvne taevi jum nerum ifobiz gewjetda hukijmon azja. Tuni ejdid kuda we pu siirowud ed hakcirdis za emoku gasemfoh raltowsig udnavor ur degnuvo sokkoz ar pul. Tatopa zar zejur uwizim bu vov seb odi hi sunsi duje imekaj ba megiev rotuw pukpipad zep wiliro.",
+    "bio": "Puvufro tijep rag ihosiez guvoud ahraem dar jogagde ge lika gonemkof jef fetmi jo sag cif li. Otoet joguih fujih ebdor zaib ongid pan soov eveza pa vaanwel cutit toen jomho cebas roube. Nijjaloz vawupos vuhwuma ugutaeka ano uwi huk vogsa kovkucuf eteal hin pasbep."
+  },
+  "apiKey": "bc505ebd5845c699b93bb207233cab084bf2be24c7fa1c39e5aa7dbe4631cc06",
+  "currency": {
+    "code": "TND",
+    "name": "Tunisia Dinar"
+  }
+}
