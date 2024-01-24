@@ -1,0 +1,26 @@
+{
+  "name": "Alice Peterson",
+  "age": 60,
+  "address": {
+    "street": "Luva River",
+    "city": "Fizaugi",
+    "state": "NM",
+    "zip": "34489"
+  },
+  "contact": {
+    "phone": "(851) 781-5513",
+    "servicePhone": "800111589"
+  },
+  "birthday": "1976-03-04T13:20:02.470Z",
+  "ip": "50.97.87.4",
+  "foo": "bar",
+  "profile": {
+    "about": "Batindej woh jutu kawanaw pivo coeta jaanni azekap nawfacjo ihu pobu zofa win bora jatkuh. Bevuzuki kagnu buhres habco zekadip joodtu cak zosin ijkoju lilve hupadiw kizdenho ordew nuki buc tadu. Luejbod foc zulu irvoggek perwik popasac vajzem nizvivi pujokiko reco deji do wolec. Fe rafsicuc gujuc jo himkazre hopnat awivij dedaveto kot av vehuvil sivelegu sikewnu. Cuude vi domna mularak du ge warabku gucfitev ne diecvu rogicu bi lumez.",
+    "bio": "Ulituse tewhu heji budzavko gikhi ere zaule tec nuiroak gavhir lemaehu hoftaso ta joopi mozrehimi ga naebi. Ga goke ajosum vasaba do kazew zide nuka fopori jikpuj awa kikvatdum cucuwpuk cob colihpu subiopa niivok awa. Jedfeom jalel hoava co ulo umape duc fema tu assi luten tarbelvov ibo uhju wif ibebaci. Bimjeghij ruefa ijinwi azpuzin se nolas fo hagjetlo povboav peg suk fonvizwov fawuko bepvuhceg. Nor goji hol jojvup odlus ofutitawu bagnamom zevikuve zi fodbile zojdovir tif tesmiir. Uhemon hu datizwe ihe cuvtali vesgaves ewoneve lowin pehobkal wucan unhi zow pu dufo."
+  },
+  "apiKey": "6e71e36763475448d45fe9e0b52f23401cae6d5b0d8e10f9d8b0b6ea5318d197",
+  "currency": {
+    "code": "JOD",
+    "name": "Jordan Dinar"
+  }
+}
