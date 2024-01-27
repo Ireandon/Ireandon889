@@ -1,0 +1,26 @@
+{
+  "name": "Jimmy Robbins",
+  "age": 33,
+  "address": {
+    "street": "Elueh View",
+    "city": "Liciuju",
+    "state": "SD",
+    "zip": "13337"
+  },
+  "contact": {
+    "phone": "(916) 302-9307",
+    "servicePhone": "800462362"
+  },
+  "birthday": "1996-09-08T20:15:52.803Z",
+  "ip": "147.217.137.100",
+  "foo": "bar",
+  "profile": {
+    "about": "Oblut teggusine ud ca dodirwuf ad teugail ga uvnoru je ec upe voisevor. Juus maagi aduhegak fifiiz fifi hut ledluviz turoda tel viphe bo cijcided pagickek kaina. Wesmooko nija kom eh cibaze vitlighuf fuzujed moadzec usowobbu cirpepik omehegpo hijuvliv elonec tusel enepuadu emosu ewbur.",
+    "bio": "Laratama deevehu vipa ri feg cormivol at vuisi he gejcahza nutjulge few onpi zatittog ar gufamjec fidegki. Baned rovcacuk rewin lampa wosmog set cusupu solfe jacakov binda sarazju tatora cijcacbe to. Ilusigvom mej gilsuut wo zahob il lil don sogkeljid cetiaki dibific oteugbu wubdum junrok ulnildi edho vohri uputoc."
+  },
+  "apiKey": "adfda26eb6e5f66a5d2e24c2907566232d1f419db5ecc4a56c17572bf8602c58",
+  "currency": {
+    "code": "VUV",
+    "name": "Vanuatu Vatu"
+  }
+}
