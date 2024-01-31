@@ -1,0 +1,26 @@
+{
+  "name": "Tony Cobb",
+  "age": 38,
+  "address": {
+    "street": "Arame Square",
+    "city": "Zedugan",
+    "state": "OR",
+    "zip": "45741"
+  },
+  "contact": {
+    "phone": "(684) 892-2442",
+    "servicePhone": "800454874"
+  },
+  "birthday": "1981-12-01T10:29:49.385Z",
+  "ip": "192.163.233.30",
+  "foo": "bar",
+  "profile": {
+    "about": "Vetfa bieri dujogbi fesilug ecipovef dibvuzu dawre em mefefe mor gisfub kahim pidij redtal zu. Hol bam ju zo ziforolid vedlod dub olev cef ja ulneg raj reh. Hozvuz voavcim apisaze egedal risonu ta iju ca cola gupil fac te tivwuji koken. Kovwoale wesondom onjoafu wagtul ka lez vaj fawme ruvucal ce dosibozof vik labe me. Bi butigvef dub cod joan ni majsobtu fafe subticu ceb map eji ebu.",
+    "bio": "Omaoga akaziwca wad suwnicih ak he eho ivenefud guwrag kujam gacrin riwzaj ho. Cawhonu kumgubuv ozo dom loojeve veseg wabce zuwuj di naw jinome to mi nultu hifro po onevawra. Mer zahe ju zoocva gikbaw hudofbu cor posati we la jo efo jadrotlub tazdib. Vosaz putvoffa wuv ece row udo gawfam rizotu gejrivep nokip igizosuk lo fer zuzu. Arguim jam bopuwital iri ow jeik jala pevveba corlulsu cipat liuco poriwe. Ba bez uhgovzap uzuwe vuma we malmun boco ruwduhe do ilo gabek newhucuk sep pug."
+  },
+  "apiKey": "0ad2a4134a8e68c7b701e194e060736778b21a6ccc24c8fcd9a3fecd52b39c5d",
+  "currency": {
+    "code": "CHF",
+    "name": "Switzerland Franc"
+  }
+}
