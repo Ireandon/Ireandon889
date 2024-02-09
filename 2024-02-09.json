@@ -1,0 +1,26 @@
+{
+  "name": "Zachary Joseph",
+  "age": 35,
+  "address": {
+    "street": "Cippa Center",
+    "city": "Kewoib",
+    "state": "AZ",
+    "zip": "98078"
+  },
+  "contact": {
+    "phone": "(915) 486-5140",
+    "servicePhone": "800789234"
+  },
+  "birthday": "1981-09-12T20:10:00.199Z",
+  "ip": "162.82.23.74",
+  "foo": "bar",
+  "profile": {
+    "about": "Rahici silenzu lurujas rapazsar zazu oj vilajaw hiurzum papla fetovuh ripiwip homlepwek diive va vutew. Adhasdi ekuco dum az niri rufne satoane musleh viwiwake pivgowfu fu ikdilge pidkukta midrehe mitzeplov vugani jum. Nuwtos noajomo fopkujlu tawvin zobusve jel hegehu basov zeih pawuget vajuw zi kascuojo go novahfo iv ha.",
+    "bio": "Guf ru kafborhiz lusulinim fa ta lup geup pecvewta hebiwne le fushivje. Zivmaw fena zep niwejtan hitisje kijpud su wupaj vosolzoj sihkenpa foc kof. Rusur fien wab da la bowin pihhelhow nuefe corroli ecauzfaw waz ejfop meeci."
+  },
+  "apiKey": "0736a79417fb9596366e6cbdb18929c20beec9a88c896d51df15d1c3f7bb2b18",
+  "currency": {
+    "code": "WST",
+    "name": "Samoa Tala"
+  }
+}
