@@ -1,0 +1,26 @@
+{
+  "name": "Willie Brady",
+  "age": 42,
+  "address": {
+    "street": "Iwdi Drive",
+    "city": "Ucruzu",
+    "state": "CA",
+    "zip": "60277"
+  },
+  "contact": {
+    "phone": "(205) 695-5633",
+    "servicePhone": "800766736"
+  },
+  "birthday": "2004-07-20T13:22:52.298Z",
+  "ip": "86.244.97.45",
+  "foo": "bar",
+  "profile": {
+    "about": "Du ipumohfa dabufese henveimo mozeres heppefu liicwid oca li vova zirfat ridzabe usi. Wachosag tokvesas so gigceza taj raf larot je nonasa uszu jicum jumobo voheufo lubmol. Civ lo zubez nuhu dutu wik jukiwa hijad wogir li gapifataw jemikome gew anuhabwe jarbuh uksi orbis.",
+    "bio": "Bo dameklag fe jil gopwe ba zuzul ki ortu sep siko bi nif dahiut. Wi jazbomo beb pet moheseha ga fawori ruunapu kimid limfivcin nucta pozo sivvo ruvaz fi tokes. Reh kuedmu peddunit vip iswoko datipos sonupa leg ku sefa icogen anek ca. Hur pomempih pieggis tej guji mukzobo ge decom nanullo dusfez tanwub rirlot molegsuv hudezri loslewih gilep egopuezo il."
+  },
+  "apiKey": "2e00210e78a72cd85201a034b59009998cb9e959652f87c1b61b9a9c42eac4f4",
+  "currency": {
+    "code": "RWF",
+    "name": "Rwanda Franc"
+  }
+}
