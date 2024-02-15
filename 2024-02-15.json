@@ -1,0 +1,26 @@
+{
+  "name": "Jeremiah Fisher",
+  "age": 35,
+  "address": {
+    "street": "Gucal Place",
+    "city": "Efisohe",
+    "state": "NY",
+    "zip": "98088"
+  },
+  "contact": {
+    "phone": "(448) 381-9531",
+    "servicePhone": "800323264"
+  },
+  "birthday": "1964-02-04T18:45:05.518Z",
+  "ip": "230.198.236.143",
+  "foo": "bar",
+  "profile": {
+    "about": "Budvo wonjabzek bozosvi vi vilajo sa jeforis tutvasri bez mip nasihkuw kecnebe lellahdoh uj igeti. Facafmu ko jun ovakomes ke vej gagwakel hel vimizu ni sezbiler kolkubwas pa elvassis corhi ub. Jat tovip lete ajreve rotnovo ciszi akumeh bewo ku camor dakoza sab ribarkin etula. Sekede cugsuk cohosi gemvugbuv da egcab cakfo wupeh gi heznowav fictirar buj demupaavu nic ote.",
+    "bio": "Pakra julep si fo vif jappo salsucal tiizfup poblag rij mehfob vep rono. Pear sewjoos buv basa puk novmi or fose jac heznap fe raril lape uba to. Opuma jafpuzudu fedug ewbu sipatoj bice let kokebe polohow ife ti alo em jaditi fuus mehacef."
+  },
+  "apiKey": "b21c535f2835ddde48a0c02a23cc5ea93f5cce8ebc180e3ac8d768c83dcd653a",
+  "currency": {
+    "code": "AUD",
+    "name": "Australia Dollar"
+  }
+}
