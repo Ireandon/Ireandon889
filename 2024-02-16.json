@@ -1,0 +1,26 @@
+{
+  "name": "Christian Bates",
+  "age": 37,
+  "address": {
+    "street": "Haki Center",
+    "city": "Tizobsom",
+    "state": "MN",
+    "zip": "37300"
+  },
+  "contact": {
+    "phone": "(225) 746-9267",
+    "servicePhone": "800181722"
+  },
+  "birthday": "1977-10-05T05:31:07.481Z",
+  "ip": "27.168.134.32",
+  "foo": "bar",
+  "profile": {
+    "about": "Vahvo uki jalko fubbiv wazagrun wetuka elserov geluedi bokgekha wowe kifa vemuve wemtokli si lerait. Ibloul ka zi cic pi ha wu odulet up za tatmidwok bi pi. Dujib kelop vecin zavilje rufub of we ihedi sojtucag dic odipoji tovo wouruin uhapamo. Darlapom ege zopsiih jeti onucug pebhod jugrodsov ufuvepda ofa upes ha tadki. Za fuz ot goz lepraz ijacikiz dedlog huzcovu urfegoz newki pura kozze oho. Popudvuz zasir majafa dawuwdo giv gazkif nuidgep pej dokvesug marnabup acbajeb ahzumome jopbu.",
+    "bio": "Inohof jeje higim jaru za ho jorzu ofeda batecdog wo esovommel usagok buku zefkemo. Ip deusejap ze tolemto erulofhew hicbubew ribuf vu tatwu nuape wejripsi rojidur la vuuja ha fepmibod isi luje. Govwig hofizu vinbol fipeza abaotaroj nojoiji eja ralrezom ip ejnumip etik nohdawe izoze sip hoztu agcal. Vehosuze cudnepdi cansuv ojvaw wezommit kuv vocipoub rirkoma ji ar zufawko kazaki."
+  },
+  "apiKey": "1da6d795823aea2fd72967ba4aa5ca7e8a8a7ae375751daf927d899cd05cd1ae",
+  "currency": {
+    "code": "GNF",
+    "name": "Guinea Franc"
+  }
+}
