@@ -1,0 +1,26 @@
+{
+  "name": "Amy Wong",
+  "age": 54,
+  "address": {
+    "street": "Meat Drive",
+    "city": "Israkag",
+    "state": "MN",
+    "zip": "42777"
+  },
+  "contact": {
+    "phone": "(628) 899-1830",
+    "servicePhone": "800542259"
+  },
+  "birthday": "1980-02-24T12:45:47.197Z",
+  "ip": "117.71.216.94",
+  "foo": "bar",
+  "profile": {
+    "about": "Jelikob hi uwu bab hih ledivwuz gawiv rezowi subehoc bam izviw vadeso. Apoca kiez razo do zupme ruribe ilfiv zeniuz wos sohwe hati ta wefuc geckufvu puleju. Zizoifa tikuk uc bow kaineidu mo onaawonu gadalni pinma buugcu wa bifzor sijtihu us. Tonbi ero fep how mu bah odza hus tutieco emwejkat ci senordo hif pu. Ipoigorud woleg fahu niel lez noh nitues to pismo pokwodkut hesbavij mo vavfe kosdagpo pobkoca ce. So ju ognoke fedlaz mulo ipte hapemun mat hi nekiha puwrop lunajce uvaeba iro dow kafozfu basva.",
+    "bio": "Pupjuz ibsa otsih fi vere ha zahuzufi bobazisa badjoipu kopva osane icu. Tidusep hiwiwa kobrur hokowe mowmifep fur hiviza ope etuwutjo ogo racocif er ekrocza zo cuat ow. Bijawe akudif odunim avokehe tac des mev pi sojroap piipole cumi niowoat."
+  },
+  "apiKey": "2676300893989f6cdfba325b766e21e824e96611ba3dbc59523eabe7b3e147c5",
+  "currency": {
+    "code": "RWF",
+    "name": "Rwanda Franc"
+  }
+}
