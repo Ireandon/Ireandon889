@@ -1,0 +1,26 @@
+{
+  "name": "Benjamin Saunders",
+  "age": 30,
+  "address": {
+    "street": "Voflik Extension",
+    "city": "Vivupa",
+    "state": "RI",
+    "zip": "38225"
+  },
+  "contact": {
+    "phone": "(605) 546-5132",
+    "servicePhone": "800594495"
+  },
+  "birthday": "1985-07-11T12:28:52.419Z",
+  "ip": "48.150.137.2",
+  "foo": "bar",
+  "profile": {
+    "about": "Cageswe pesolude elkev fatu du doj wegepri rokovik baw wavre koodulum bi hof caliwu piugdi hasob an te. Juto diani bucu pomrutaga zoh mabugna zeldig gi zu helu fapsi fit eple pejocov. Kobjon soffig uh aspu peuv itiovobi zuc wamvu pappow leohumu et efagazab ulnejiw suvgub.",
+    "bio": "Fezgion hozkoz ujjamed upuves ikibac sa cazista ibe gehalle bithunem eg doc. Dek zuznavu ko rog nolu sezes eta fu da taufuud wejho eghi pasezubos dem bowat. Du kuhep nufu mu de gagu poeliab up zesjudu bikjebig jev cehinedo misoasi gehanoj weepocij di. Ise fizupe wema osgu soja mahes alu vadufsib rewjufoma ufa ekkeno doz bu pez tihnoktar tucnevi kah. Ur nosownod pilu vopo coc bufec siropmi ricehdo gerzumner ihija gu fizazo."
+  },
+  "apiKey": "beeaee3db5dd8c02cc4c506716549fa23b62cd07209649129170f6a950ad0eba",
+  "currency": {
+    "code": "SOS",
+    "name": "Somalia Shilling"
+  }
+}
