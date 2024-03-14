@@ -1,0 +1,26 @@
+{
+  "name": "Derrick McKenzie",
+  "age": 33,
+  "address": {
+    "street": "Fomi Ridge",
+    "city": "Defaigu",
+    "state": "MS",
+    "zip": "27360"
+  },
+  "contact": {
+    "phone": "(413) 312-2650",
+    "servicePhone": "800233724"
+  },
+  "birthday": "1978-03-03T09:43:19.776Z",
+  "ip": "145.200.54.65",
+  "foo": "bar",
+  "profile": {
+    "about": "Sojjikton ecto ehdas fuscilrob lofwab pomagkac ardijas ocmojju mowuvren lo ugi tin. Vizad konohum okpafazo liwibu detit re veob pub azu ibopar lepuav gefezus onovis tubwihab loj buc. Wagosco lew vapmubal wojih na zodonkuv gamtavmu se oda ote ceh fetuz feos vekohivi gugeb. Nevaju mijisu wukumus hojvavbuh so arike viap onivef tatwu ukfirwuk su piz muzlu safloza ponases sineswaz ru piwaude. Ag kaje uza patci lo mufhe noko hudis zufihi vuw mu dudejore misab umas likithas no.",
+    "bio": "Ga ah puhiwip fav mibjowuh zukpore tenobed cirni avoceji hirub udeteef navgef zoowiho. Nofatej fambarci ma tot varric cegkikeb jawe sewipa mavfeb poj bagnukofi fis totago jecdevuzo nekteb. La hi vi ta wepi sunvog govojev capusus non bomaora dafuguf tukisliw bezas. Fijmedeh vubi daem ujku lona saghucvoh hornacu ud injo uheuwaic cotfi nav nuzegtim juzfe bavoziuj."
+  },
+  "apiKey": "595a3b9f69d05ea382effa08ce6d108f0e86c384d9fb3e4bbe5387180ee7ea55",
+  "currency": {
+    "code": "HKD",
+    "name": "Hong Kong Dollar"
+  }
+}
