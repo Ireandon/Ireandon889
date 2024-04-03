@@ -1,0 +1,26 @@
+{
+  "name": "Marcus Barton",
+  "age": 43,
+  "address": {
+    "street": "Wugej Court",
+    "city": "Rizenru",
+    "state": "SC",
+    "zip": "86828"
+  },
+  "contact": {
+    "phone": "(816) 911-7891",
+    "servicePhone": "800245846"
+  },
+  "birthday": "1959-09-25T14:18:25.839Z",
+  "ip": "114.114.129.78",
+  "foo": "bar",
+  "profile": {
+    "about": "Neavzic jomijem fiffajkov hi gok wiv valhah tete bic rit livute oni fo hozebot vapepu cacdif iw erunerfeh. Momuup tihpo avu lemuzej idsovzon egiwuh eminahi vid rosow ro opzifi gomgomif pismoweza fuf peme sup hita. Semlilib togic veteh nizew vunewip boriimu ovosog corrorho ji ewupano zeag evobufo fotfih bul acatizalu. Zoz upvo piku eziazoti cisduldu hu ecic zoduzapob ejawanru nar no okeweset emdumu fikal lifpazec. Melzi bu ma bohsi gozo gijri lumbah ja kumomo pebag cun puvvuhi pozfid difbepe bera ah.",
+    "bio": "Vial vu womtu dez wol cappun ekuiwak futurnog notis ih kit pa lu. Ujidukan teper wejfap aheoj bupehhur do mi cacama du ormu du hub dud te febmitu. Ja kotid nuduzli ha kojizil fuj birmehu mesmu uru feep su sikni hicheb fu."
+  },
+  "apiKey": "596bfff01289963d420b7bcb5e8fc93d664b7fbd89c56a4953bddef5d8f56334",
+  "currency": {
+    "code": "DKK",
+    "name": "Denmark Krone"
+  }
+}
