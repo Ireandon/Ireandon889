@@ -1,0 +1,26 @@
+{
+  "name": "Billy James",
+  "age": 20,
+  "address": {
+    "street": "Soug Turnpike",
+    "city": "Momjahe",
+    "state": "VA",
+    "zip": "09929"
+  },
+  "contact": {
+    "phone": "(537) 982-2025",
+    "servicePhone": "800491539"
+  },
+  "birthday": "1973-05-24T10:38:26.272Z",
+  "ip": "233.60.251.122",
+  "foo": "bar",
+  "profile": {
+    "about": "Vi nap ijaveset modutob pur po rawoufu hozmetkez ho jubpogan ij ov ze we. Nazi supo udet jo muccewta nuno ic buc rusuw bor fe peajino jaje otegimok. Mo wi raji duih gotov utubuw guohejo fuwnomek el gasoz zoj tutid ke nogucu wefawduh togbum deiduna.",
+    "bio": "Gabecdaf dibasuza upuagobe tillarzuz vorojule ji avsuzin mi kotilraw nasepoz na opu daba unzinol baeso cevva ranhegwas. Hosfen vag ve upecijlo jadi ficmi pibojot lukzituz webet cedaut resfokfar ganha jugjefuj gagsoso camici bewiivo ogekipi kuc. Uslun suhlouza masuh bi holcoge feh iga jafalel usa podi kamreg ko jop ti soz."
+  },
+  "apiKey": "6b66ddbb41a5e5ec433dc54197d3ed3d3a6e11bf7195dd61fa28dcbfc27efda0",
+  "currency": {
+    "code": "CRC",
+    "name": "Costa Rica Colon"
+  }
+}
