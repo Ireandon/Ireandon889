@@ -1,0 +1,26 @@
+{
+  "name": "Steve Pope",
+  "age": 23,
+  "address": {
+    "street": "Jurim Place",
+    "city": "Bacsinsek",
+    "state": "AK",
+    "zip": "23245"
+  },
+  "contact": {
+    "phone": "(235) 422-7977",
+    "servicePhone": "800762161"
+  },
+  "birthday": "1964-06-03T18:44:17.353Z",
+  "ip": "70.29.188.52",
+  "foo": "bar",
+  "profile": {
+    "about": "Tal elejodom sos nezini no loveg farlam wukcak er awabem vecsuec ewuecauf lap ga. Huluc vob ge jimpu padalepu nineh luz koruw hepdok caz ide ruk uzwota vewa mag joptij. Zeropem hisbozdi ruhnag sanhak tefad kujasu madca da seiki lihip vohmawzu zekpunu bopbaoso. Konejmu azi gizaebo kolohevo fihogaj vajahad ni kipbi zanrar coin pukik tivwiw fe hah wac.",
+    "bio": "Soukibe jepsettot upo pifovoeso tusaskac si kagsi ipe lezwi sa bomwu so ujgejaf. Utuosuka fu to daaka miwe enwufi kuplacep neafohap ulovu de duuru et jej pase fifila apu sidakgi utebu. Rime buca ejo ribtupgo miwo zi evi sanlehus kaig marim roj fuflaj. Maksu cenuno meswibiw roeciwiv je wozod fim ova fuwel riluj ponaiho mol az iblovni."
+  },
+  "apiKey": "f28023b6823bcf1f2a844007b87e397d27c5dd5c26312749b37612cfe5dd81a2",
+  "currency": {
+    "code": "IQD",
+    "name": "Iraq Dinar"
+  }
+}
